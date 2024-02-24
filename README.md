@@ -9,7 +9,7 @@ The training dateset includes 17,500 32x32 jpeg aerial images images. Each train
 
 #### Cacti: 
 
-<p align="left"><a href="Cacti"><img src="/images/1.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/2.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/3.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/4.jpg" align="center" height="100" hspace="5"></a></p>
+<p align="left"><a href="Cacti"><img src="/images/1.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/2.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/3.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/4.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/4.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/5.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/6.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/7.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/8.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/9.jpg" align="center" height="100" hspace="5"></a><a href="Cacti"><img src="/images/10.jpg" align="center" height="100" hspace="5"></a></p>
 
 #### No Cacti: 
 
